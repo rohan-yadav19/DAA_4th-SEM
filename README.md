@@ -7,20 +7,30 @@
 -This program calculates the factorial of a given number using recursion, where the function calls itself to compute the result.
 
 #How to Run
+
 1.Clone the repository
+
 git clone https://github.com/your-username/DAA-4th-Sem.git
 cd DAA-4th-Sem
+
 2.Compile and run the Java files
+
 javac FactorialIterative.java  
 java FactorialIterative  
 javac FactorialRecursive.java  
 java FactorialRecursive  
 
 #Example Output
+
 Input: 5
+
 Output: Factorial of 5 is 120
+
 #Contributing
+
 -Feel free to fork this repository, raise issues, or contribute by adding more DAA programs!
+
 #License
+
 This project is open-source and free to use.
 
