@@ -1,11 +1,19 @@
 #DAA 4th Sem
+
 -This repository contains programs related to Design and Analysis of Algorithms (DAA) for the 4th semester.
+
 #Programs Included
+
 1. Factorial using Iterative Method
+   
 -This program calculates the factorial of a given number using an iterative approach (loop-based method).
-2. Factorial using Recursion
+
+3. Factorial using Recursion
+
 -This program calculates the factorial of a given number using recursion, where the function calls itself to compute the result.
+
 3.Binary Search
+
 -This is an implementation of the Binary Search Algorithm in java. Binary Search is an efficient searching technique used to find an element in a sorted array in O(log n) time complexity.
 
 #How to Run
