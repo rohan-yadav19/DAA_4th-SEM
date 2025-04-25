@@ -1,3 +1,4 @@
+
 public class LinearSearch {
     // Function to perform linear search
     public static int linearSearch(int[] arr, int key) {
