@@ -35,7 +35,25 @@ Output: Factorial of 5 is 120
 
 4.If the loop completes without finding the target, return -1 to indicate the element is not present.
 
+5.Merge Sort
 
+-This is a simple Java implementation of the Merge Sort algorithm — a classic divide-and-conquer sorting algorithm.
+
+#Features
+
+-Sorts an array of integers
+
+-Uses recursion to divide the array
+
+-Merges sorted halves efficiently
+
+#Sample Output
+
+Original array:
+[38, 27, 43, 3, 9, 82, 10]
+
+Sorted array:
+[3, 9, 10, 27, 38, 43, 82]
 
 #How to Run
 
