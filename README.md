@@ -55,6 +55,32 @@ Original array:
 Sorted array:
 [3, 9, 10, 27, 38, 43, 82]
 
+6.Quick sort
+
+-This program implements the Quick Sort algorithm using an array. Quick Sort is a popular and efficient sorting technique that follows the divide and conquer strategy.
+
+#Key Features
+
+-Fast average-case time complexity: O(n log n).
+
+-In-place sorting (no extra array needed).
+
+-Efficient for large datasets.
+
+#How Quick Sort Works
+
+1.Choose a pivot element (commonly the last element or a random element).
+
+2.Partition the array so that:
+
+  -All elements less than the pivot come before it.
+
+  -All elements greater come after it.
+
+3.Recursively apply the same process to the left and right partitions.
+
+
+
 #How to Run
 
 1.Clone the repository
