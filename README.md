@@ -79,6 +79,34 @@ Sorted array:
 
 3.Recursively apply the same process to the left and right partitions.
 
+7. Dijkstra's Algorithm 
+
+-This program implements **Dijkstra's Algorithm** in Java to find the shortest path from a source node to all other nodes in a weighted graph with non-negative edge weights.
+
+### Features:
+- Uses a priority queue for efficient minimum distance selection.
+- Supports custom graph input via adjacency matrix or list.
+- Outputs the shortest distance from the source node to all other nodes.
+
+##Output
+ Vertex  Distance from Source
+0        0
+1        4
+2        12
+3        19
+4        21
+5        11
+6        9
+7        8
+8        14
+
+
+### How to Run:
+1. Compile the program:
+   ```bash
+   javac Dijkstra.java
+
+
 
 
 #How to Run
