@@ -88,7 +88,7 @@ Sorted array:
 - Supports custom graph input via adjacency matrix or list.
 - Outputs the shortest distance from the source node to all other nodes.
 
-##Output
+## Sample Output
  Vertex  Distance from Source
 0        0
 1        4
@@ -101,12 +101,24 @@ Sorted array:
 8        14
 
 
-### How to Run:
-1. Compile the program:
-   ```bash
-   javac Dijkstra.java
+8.Prim's Algorithm 
 
+-This program implements **Prim's Algorithm** in Java to find the **Minimum Spanning Tree (MST)** of a connected, undirected, weighted graph.
 
+### Features:
+- Builds an MST by always choosing the edge with the smallest weight that connects a visited and unvisited node.
+- Efficient for dense graphs using an adjacency matrix.
+- Outputs the edges selected and the total weight of the MST.
+
+#Sample Output
+
+Edge   Weight
+0 - 1     2
+1 - 3     3
+0 - 2     6
+3 - 4     5
+
+Total cost of Minimum Spanning Tree: 16
 
 
 #How to Run
